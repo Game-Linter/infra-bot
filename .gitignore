@@ -4,6 +4,8 @@
 *.backup
 *.tfplan
 
+variables.tf
+
 # Ignore .terraform directory
 **/.terraform/*
 
